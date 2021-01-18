@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2868734825B564DE00100E17 /* Webview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2868734725B564DE00100E17 /* Webview.swift */; };
 		3213546225B54F96003CF2ED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3213546125B54F96003CF2ED /* AppDelegate.swift */; };
 		3213546425B54F96003CF2ED /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3213546325B54F96003CF2ED /* SceneDelegate.swift */; };
 		3213546625B54F96003CF2ED /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3213546525B54F96003CF2ED /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2868734725B564DE00100E17 /* Webview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Webview.swift; sourceTree = "<group>"; };
 		3213545E25B54F96003CF2ED /* DronePhone3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DronePhone3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3213546125B54F96003CF2ED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3213546325B54F96003CF2ED /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 			children = (
 				3213546125B54F96003CF2ED /* AppDelegate.swift */,
 				3213546325B54F96003CF2ED /* SceneDelegate.swift */,
+				2868734725B564DE00100E17 /* Webview.swift */,
 				3213546525B54F96003CF2ED /* ViewController.swift */,
 				3213546725B54F96003CF2ED /* Main.storyboard */,
 				3213546A25B54F99003CF2ED /* Assets.xcassets */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3213546625B54F96003CF2ED /* ViewController.swift in Sources */,
+				2868734825B564DE00100E17 /* Webview.swift in Sources */,
 				3213546225B54F96003CF2ED /* AppDelegate.swift in Sources */,
 				3213546425B54F96003CF2ED /* SceneDelegate.swift in Sources */,
 			);
