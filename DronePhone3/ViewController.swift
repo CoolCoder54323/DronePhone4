@@ -19,7 +19,7 @@ class ViewController: UIViewController, WKNavigationDelegate{
     
     override func viewDidLoad() {
         super.viewDidLoad()
-    
+        droneView.scrollView.isScrollEnabled = false;
         let urls = URL(string: "http://192.168.4.32:6006")!;
         droneView.load(URLRequest(url: urls))
         
